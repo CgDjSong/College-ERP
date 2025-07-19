@@ -22,6 +22,8 @@ it's an pure and simple CgDjSong.Com web site for Downloading of Best Chhattisga
 </div>
 
 
+<div id="Powered" align="center"> <span><a href="javascript:history.back(1)"><font color="#ffff00"><b>Back</b></a></span> - <span><a href="/site-about.html"><font color="#ff0000"><b>About</b></a></span> - <span><a href="/site-privacy.html"><font color="#ffff00"><b>Privacy Policy</b></a></span> - <span><a href="/site-disclaimer.html"><font color="#ff0000"><b>Disclaimer</b></a></span> - <span><a href="/site-contact.html"><font color="#ffff00"><b>Contact Us</b></a></span> | <a href="https://youtube.com/channel/UCWvKSl1L32aJkQZOpkKmJSg"><font color="#ff0000"><b>YouTube</b></a>.<font color="#ffffff"><b> All Rights Reserved</b></a> <font color="#ffff00"><b>: Rubina Official</b><br><font color="#ffffff"><b>Powered By</b></a><font color="#ffff00"><b> : Amadul Official</b><br /><font color="#ffffff"><b>Click Here To View Rubina Official </b><i class="fa fa-hand-o-right" aria-hidden="true"></i> <span><a href="/site-map.html"><font color="#ffff00"><b>SiteMap</b></font></a></span><br />
+
 ## Usage 
 
 Go to the College-ERP folder and run
